@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/JourneyRunner","riskmanagement/risks/test/integration/pages/RisksObjectPage"],function(e,s){"use strict";var t=new e({launchUrl:sap.ui.require.toUrl("riskmanagement/risks")+"/test/flpSandbox.html#riskmanagementrisks-tile",pages:{onTheRisksObjectPage:s},async:true});return t});
+//# sourceMappingURL=JourneyRunner.js.map
